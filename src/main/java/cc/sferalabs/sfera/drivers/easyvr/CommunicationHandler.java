@@ -36,7 +36,7 @@ public class CommunicationHandler implements CommPortListener {
 
 	/**
 	 * 
-	 * @param gsm
+	 * @param EasyVR driver
 	 * @param commPort
 	 * @param countryCode
 	 * @param logger
